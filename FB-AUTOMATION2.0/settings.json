@@ -6,15 +6,15 @@
     "fileExtensions": ["py","txt"]
   },
   "approval":{
-    "key": {
+    "key1": {
       "validTill": "date time object",
       "name": "Mr Hacker"
     },
-    "key": {
+    "key2": {
       "validTill": "date time object",
       "name": "Mr Hacker"
     },
-    "key": {
+    "key3": {
       "validTill": "date time object",
       "name": "Mr Hacker"
     }
