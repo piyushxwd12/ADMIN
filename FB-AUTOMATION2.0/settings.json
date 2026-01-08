@@ -1,0 +1,14 @@
+{
+  "settings":{
+    "on": True,
+    "code": "",
+    "logoTxt": "",
+    "fileExtensions": ["py","txt"]
+  },
+  "approval":{
+    "key": {
+      "validTill": "date time object",
+      "name": "Mr Hacker"
+    }
+  } 
+}
