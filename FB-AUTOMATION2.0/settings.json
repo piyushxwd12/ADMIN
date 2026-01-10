@@ -1,6 +1,6 @@
 {
   "settings":{
-    "on": true,
+    "on": false,
     "code": "",
     "logoTxt": "",
     "fileExtensions": ["py","txt"]
