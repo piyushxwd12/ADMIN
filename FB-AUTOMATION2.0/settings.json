@@ -2,7 +2,7 @@
 {
   "settings":{
     "on": true,
-    "code": "print('hello 😑😳😑😳🙂😳🙂😳')",
+    "code": "",
     "logoTxt": "",
     "fileExtensions": ["py","txt"]
   },
