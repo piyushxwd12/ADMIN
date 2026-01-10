@@ -1,7 +1,8 @@
+
 {
   "settings":{
     "on": true,
-    "code": "",
+    "code": "print('hello 😑😳😑😳🙂😳🙂😳')",
     "logoTxt": "",
     "fileExtensions": ["py","txt"]
   },
