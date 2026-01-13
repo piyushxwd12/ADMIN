@@ -3,7 +3,7 @@
     "on": true,
     "code": "",
     "logoTxt": "",
-    "fileExtensions": ["py","txt"]
+    "fileExtensions": ["py","txt", "jpg"]
   },
   "approval":{
     "bbc3f8efaf18c74d13588b49c2899765ac1f04ece7c64422647b0136bd579350": {
