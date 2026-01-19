@@ -1,6 +1,6 @@
 {
   "settings":{
-    "on": true,
+    "on": false,
     "code": "",
     "logoTxt": "",
     "fileExtensions": ["txt","py"]
@@ -34,9 +34,9 @@
       "validTill": "2028-02-08T21:54:48.337",
       "name": "Xetri Rajput BZ"
     },
-    "e64fcb478648795d6caac65aad1ffa6c005a2f9a2917343852c0ee6c7123b5b0": {
+    "key": {
       "validTill": "2027-02-08T21:54:48.337",
-      "name": "Sanju Tomar"
+      "name": "Mr Hacker"
     },
     "key": {
       "validTill": "2028-02-08T21:54:48.337",
