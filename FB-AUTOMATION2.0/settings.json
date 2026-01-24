@@ -1,6 +1,6 @@
 {
   "settings":{
-    "on": true,
+    "on": false,
     "code": "",
     "logoTxt": "",
     "fileExtensions": ["txt","py"]
@@ -22,17 +22,17 @@
       "validTill": "2028-02-08T21:54:48.337",
       "name": "Vivo Piyush"
     },
-    "423c86e811647fef38ad918910b03861006841ae72afb634b184256cbc4bcbf2": {
+    "key": {
       "validTill": "2027-02-08T21:54:48.337",
-      "name": "RISHABH ROY"
+      "name": "Mr Hacker"
     },
-    "5eb7dbfbc13893484258a65afdb1006f5b9774f2328fde792c7da2847c6fb16d": {
+    "key": {
       "validTill": "2027-02-08T21:54:48.338",
-      "name": "PAGAL FAIZU TBR X SAAMRAJYA FOUNDER"
+      "name": "Mr Hacker"
     },
-    "bec7c8fd56d10ab535db79d3b268c4efab2017ef2bc1d9def5d116694cd45436": {
+    "key": {
       "validTill": "2028-02-08T21:54:48.337",
-      "name": "DEEPU DILJELE MAKER"
+      "name": "Mr Hacker"
     },
     "421c85b185e88a89a8bd4abc08daca5930775d70543156d8971a811a0533ba4b": {
       "validTill": "2028-02-08T21:54:48.337",
@@ -42,9 +42,9 @@
       "validTill": "2028-02-08T21:54:48.337",
       "name": "Mr Hacker"
     },
-    "960ecc81101c008089e8755b6f388d0d3e2270f8eb5d80724cf28c70dc18b3ae": {
+    "key": {
       "validTill": "2028-02-08T21:54:48.337",
-      "name": "KALYUG MAKER LALIT SAINI"
+      "name": "Mr Hacker"
     },
     "176bb548cf665baddb3055a54af4edb8f55750d14f943352c2366d7e3d24d6f0": {
       "validTill": "2028-02-08T21:54:48.337",
@@ -58,13 +58,13 @@
       "validTill": "2028-02-08T21:54:48.337",
       "name": "key"
     },
-    "6083563c6ffa3624354ece6f247bec9ac282f22f6c2fb2820425f371adacf6d3": {
+    "key": {
       "validTill": "2028-02-08T21:54:48.337",
-      "name": "KALYUG OWNER AKASH BAKCHOD"
+      "name": "Mr Hacker"
     },
-    "3d3ec8a970f2786c4dd0ec8e9065ebc3ace419bca952ca9ff835f7422ec9768d": {
+    "key": {
       "validTill": "2026-02-08T21:54:48.337",
-      "name": "SUP OWNER SHURIYA JHA"
+      "name": "Mr Hacker"
     },
     "key": {
       "validTill": "2026-02-08T21:54:48.337",
