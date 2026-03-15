@@ -1,6 +1,6 @@
 {
   "settings":{
-    "on": ture,
+    "on": true,
     "code": "",
     "logoTxt": "",
     "fileExtensions": ["txt","py"]
