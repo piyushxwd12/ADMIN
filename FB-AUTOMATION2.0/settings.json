@@ -1,6 +1,6 @@
 {
   "settings":{
-    "on": true,
+    "on": false,
     "code": "",
     "logoTxt": "",
     "fileExtensions": ["txt","py"]
@@ -62,9 +62,9 @@
       "validTill": "2029-02-08T21:54:48.337",
       "name": "PC MASTER NIKHIL PRADHAN"
     },
-    "3d2d9aa6d6e1bc9a5a460def94c987dd3e55165e8f009cf2a3ddfd20434b8ca7": {
+    "key": {
       "validTill": "2028-02-08T21:54:48.337",
-      "name": "Dhruv Xd"
+      "name": "Mr Hacker"
     },
     "key": {
       "validTill": "2028-02-08T21:54:48.337",
